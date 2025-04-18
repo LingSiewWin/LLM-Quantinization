@@ -1,0 +1,5 @@
+#AutoGPT
+pip install auto-gptq optimum
+
+#bitsandbytes
+pip install transformers accelerate bitsandbytes
